@@ -1,2 +1,6 @@
-This is for the first commit for this repo.
-This repo name was changed.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
+
+
